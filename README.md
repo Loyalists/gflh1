@@ -25,11 +25,13 @@ Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4597563924) as an exam
 If it still refuses to work (checkerboard background...etc) please follow the Alternative Installations section.
 
 # Alternative Installations
-1. Rename mod.ff inside mods/gfl/zone to h1_mod_common.ff
+The method below uses English as an example. If your game is using other languages some adjustments are to be made.  
 
-2. Navigate to C:/Users/[YOUR USERNAME]/AppData/Local/h1-mod/cdata/zone
+1. Rename mod.ff inside mods/gfl/zone to en_h1_mod_common.ff
 
-3. Move the renamed mod.ff to the folder above to replace the original h1_mod_common.ff
+2. Navigate to C:/Users/[YOUR USERNAME]/AppData/Local/h1-mod/cdata/zone/english
+
+3. Move the renamed mod.ff to the folder above to replace the original en_h1_mod_common.ff
 
 # Wiki   
 [Known Issues](https://github.com/Loyalists/gflh1/wiki/Known-Issues)   
