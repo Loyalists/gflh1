@@ -12,7 +12,7 @@
 
 # Showcase
 [Gallery](https://github.com/Loyalists/gflh1/wiki/Gallery)  
-[Playlist](https://www.youtube.com/playlist?list=PLHUTPjEfLLEIjsRub7FRDtQc-oJpnKD-0)   
+[Playlist](https://www.youtube.com/playlist?list=PLHUTPjEfLLEKv1Z3CTZfLMDq3d0J3W4h8)   
 
 # Useful links
 [h1-gsc-dump](https://github.com/mjkzy/h1-gsc-dump)   
