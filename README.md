@@ -9,7 +9,7 @@
 # Installation
 1. Prepare a copy of MWR. Read the [h1-mod manual](https://docs.h1.gg/install) for more information.
 
-2. Install the [DEVELOP BUILD of h1-mod](https://github.com/h1-mod/h1-mod/actions?query=branch%3Adevelop)  
+2. Install the [DEVELOP BUILD of h1-mod](https://github.com/h1-mod/h1-mod/actions/runs/4478388098)  
 Note that the current release of h1-mod doesn't work properly with the mod and using the develop build is required.   
 Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4478388098) as an example. Just hit the "Release binaries" to download it when in doubt.
 
@@ -22,9 +22,9 @@ Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4478388098) as an exam
 
 6. Have fun!
 
-If it still refuses to work (checkerboard background...etc) please follow the Alternative Installations section.
+If it still refuses to work (checkerboard background...etc) please follow the Alternative Installation section.
 
-# Alternative Installations
+# Alternative Installation
 The method below uses English as an example. If your game is using other languages some adjustments are to be made.  
 
 1. Rename mod.ff inside mods/gfl/zone to en_h1_mod_common.ff
