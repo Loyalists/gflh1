@@ -37,7 +37,6 @@ The method below uses English as an example. If your game is using other languag
 
 If you have already follow the three steps above and some fatal errors pop up on starting, try to do something like moving or renaming the modded eng_h1_mod_common.ff or something else as long as the game can be started without crashing and disable **Shader Preload** in graphics settings. After tweaks are done move the file back to its original location.
 # Wiki   
-[Known Issues](https://github.com/Loyalists/gflh1/wiki/Known-Issues)   
 [Credits](https://github.com/Loyalists/gflh1/wiki/Credits)   
 
 # Showcase
