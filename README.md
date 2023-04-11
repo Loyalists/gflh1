@@ -9,9 +9,10 @@
 # Installation
 1. Prepare a copy of MWR. Read the [h1-mod manual](https://docs.h1.gg/install) for more information.
 
-2. Install the [DEVELOP BUILD of h1-mod](https://github.com/h1-mod/h1-mod/actions/runs/4478388098)  
-Note that the current release of h1-mod doesn't work properly with the mod and using the develop build is required.   
-Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4478388098) as an example. Just hit the "Release binaries" to download it when in doubt.
+2. Install the [DEVELOP BUILD of h1-mod](https://github.com/h1-mod/h1-mod/actions)  
+The current release of h1-mod doesn't work properly with the mod and using the develop build is a must for the time being.   
+Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4478388098) as an example. Just hit the "**Release binaries**" to download it when in doubt.   
+Also note that a github account is required for this, login or register one when needed.
 
 3. Download the latest [release](https://github.com/Loyalists/gflh1/releases/tag/1.0).  
 **Do NOT download the repository as ZIP, that won't work, make sure you download the LATEST RELEASE.**
@@ -26,6 +27,7 @@ If it still refuses to work (checkerboard background...etc) please follow the Al
 
 # Alternative Installation
 The method below uses English as an example. If your game is using other languages some adjustments are to be made.  
+Before proceeding, disable **Shader Preload** in graphics settings while the game can be launched without crashing. 
 
 1. Rename mod.ff inside mods/gfl/zone to en_h1_mod_common.ff
 
