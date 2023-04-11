@@ -35,7 +35,7 @@ The method below uses English as an example. If your game is using other languag
 
 3. Move the renamed mod.ff to the folder above to replace the original eng_h1_mod_common.ff
 
-If you have already follow the three steps above and some fatal errors pop up on starting, try to do something like moving or renaming the modded eng_h1_mod_common.ff or something else as long as the game can be started without crashing and disable **Shader Preload** in graphics settings. After tweaks are done move the file back to its original location.
+If you have already followed the three steps above and some fatal errors pop up on starting, try to do something like moving or renaming the modded eng_h1_mod_common.ff or something else as long as the game can be started without crashing and disable **Shader Preload** in graphics settings. After tweaks are done move the file back to its original location.
 # Wiki   
 [Credits](https://github.com/Loyalists/gflh1/wiki/Credits)   
 
