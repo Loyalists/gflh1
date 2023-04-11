@@ -29,11 +29,11 @@ If it still refuses to work (checkerboard background...etc) please follow the [A
 Before proceeding, disable **Shader Preload** in graphics settings while the game can be launched without crashing. 
 The method below uses English as an example. If your game is using other languages some adjustments are to be made.  
 
-1. Rename mod.ff inside mods/gfl/zone to en_h1_mod_common.ff
+1. Rename mod.ff inside mods/gfl/zone to eng_h1_mod_common.ff
 
 2. Navigate to C:/Users/[YOUR USERNAME]/AppData/Local/h1-mod/cdata/zone/english
 
-3. Move the renamed mod.ff to the folder above to replace the original en_h1_mod_common.ff
+3. Move the renamed mod.ff to the folder above to replace the original eng_h1_mod_common.ff
 
 If you have already follow the three steps above and some fatal errors pop up on starting, try to do something like moving or renaming the modded eng_h1_mod_common.ff or something else as long as the game can be started without crashing and disable **Shader Preload** in graphics settings. After tweaks are done move the file back to its original location.
 # Wiki   
