@@ -21,8 +21,6 @@ Also note that a github account is required for this, login or register one when
 
 5. Launch the game with h1-mod-gfl.bat, or alternatively h1-mod.exe and load **GFL** mod in game.
 
-6. Have fun!
-
 If it still refuses to work (checkerboard background...etc) please follow the [Alternative Installation](https://github.com/Loyalists/gflh1#alternative-installation) section.
 
 # Alternative Installation
