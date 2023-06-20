@@ -2,11 +2,11 @@
 # gflh1
 ![](https://github.com/Loyalists/gflh1/blob/main/assets/github/logo.png?raw=true)
 
-# Requirements
+## Requirements
 [Call of Duty: Modern Warfare Remastered](https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/) (Steam - PC)*  
 [h1-mod (DEVELOP BUILD)](https://github.com/h1-mod/h1-mod)
 
-# Installation
+## Installation
 1. Prepare a copy of MWR. Read the [h1-mod manual](https://docs.h1.gg/install) for more information.
 
 2. Install the [DEVELOP BUILD of h1-mod](https://github.com/h1-mod/h1-mod/actions?query=branch%3Adevelop)  
@@ -23,7 +23,7 @@ Also note that a github account is required for this, login or register one when
 
 If it still refuses to work (checkerboard background...etc) please follow the [Alternative Installation](https://github.com/Loyalists/gflh1#alternative-installation) section.
 
-# Alternative Installation
+## Alternative Installation
 Before proceeding, disable **Shader Preload** in graphics settings while the game can be launched without crashing.   
 The method below uses English as an example. If your game is using other languages some adjustments are to be made.  
 
@@ -44,19 +44,19 @@ seta 0x2950CB6D "0"
 seta 0x8BF035B2 "1"
 ```
 
-# Wiki   
+## Wiki   
 [Credits](https://github.com/Loyalists/gflh1/wiki/Credits)   
 
-# Showcase
+## Showcase
 [Gallery](https://github.com/Loyalists/gflh1/wiki/Gallery)  
 [Playlist](https://www.youtube.com/playlist?list=PLHUTPjEfLLEKv1Z3CTZfLMDq3d0J3W4h8)   
 
-# Useful links
+## Useful links
 [h1-gsc-dump](https://github.com/mjkzy/h1-gsc-dump)   
 [x64-zt](https://github.com/Joelrau/x64-zt)   
 [zonetool](https://github.com/Joelrau/zonetool)   
 [Greyhound](https://github.com/Scobalula/Greyhound)   
 [Developer console](https://callofduty.fandom.com/wiki/Developer_console)   
 
-# Disclaimer
+## Disclaimer
 The mod is provided as-is and the contributors are not liable for any damage resulting from it. USE IT AT YOUR OWN RISK.
