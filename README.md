@@ -14,7 +14,7 @@ The current release of h1-mod doesn't work properly with the mod and using the d
 Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4478388098) as an example. Just hit the "**Release binaries**" to download it when in doubt.  
 Also note that a github account is required for this, login or register one when needed.
 
-3. Download the latest [release](https://github.com/Loyalists/gflh1/releases/tag/1.0).  
+3. Download the latest [release](https://github.com/Loyalists/gflh1/releases/latest).  
 **Do NOT download the repository as ZIP, that won't work, make sure you download the LATEST RELEASE.**
 
 4. Extract the archive and copy the files from the latest release into root folder of the game, where h1_sp64_ship.exe is located.
