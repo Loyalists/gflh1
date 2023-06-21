@@ -3,7 +3,7 @@
 ![](https://github.com/Loyalists/gflh1/blob/main/assets/github/logo.png?raw=true)
 
 ## Requirements
-[Call of Duty: Modern Warfare Remastered](https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/) (Steam - PC)*  
+[Call of Duty: Modern Warfare Remastered](https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/) (Steam - PC)  
 [h1-mod (DEVELOP BUILD)](https://github.com/h1-mod/h1-mod)
 
 ## Installation
