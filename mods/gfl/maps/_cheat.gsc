@@ -916,7 +916,7 @@ randomize()
     level.tracksuit_mode_head = undefined;
     level.accessorymodels_cheat = undefined;
 
-	switch( randomint(27) )
+	switch( randomint(29) )
 	{
 	case 0:
         level.tracksuit_mode_model = "h1_gfl_negev_body";
@@ -965,7 +965,7 @@ randomize()
 	case 9:
         level.tracksuit_mode_model = "h2_gfl_p90_body";
         level.tracksuit_mode_head = "h2_gfl_p90_head";
-        level.accessorymodels_cheat = [ "h2_gfl_p90_hair", "h2_gfl_p90_clothes" ];
+        level.accessorymodels_cheat = [ "h2_gfl_p90_clothes" ];
 		break;
 	case 10:
         level.tracksuit_mode_model = "h2_gfl_9a91_body";
@@ -985,7 +985,7 @@ randomize()
 	case 13:
         level.tracksuit_mode_model = "h2_gfl_saiga12_body";
         level.tracksuit_mode_head = "h2_gfl_saiga12_head";
-        level.accessorymodels_cheat = [ "h2_gfl_saiga12_hair", "h2_gfl_saiga12_clothes" ];
+        level.accessorymodels_cheat = [ "h2_gfl_saiga12_clothes" ];
 		break;
 	case 14:
         level.tracksuit_mode_model = "h2_gfl_fnc_body";
@@ -995,7 +995,6 @@ randomize()
 	case 15:
         level.tracksuit_mode_model = "h2_gfl_sten_body";
         level.tracksuit_mode_head = "h2_gfl_sten_head";
-        level.accessorymodels_cheat = [ "h2_gfl_sten_hair" ];
 		break;
 	case 16:
         level.tracksuit_mode_model = "h2_gfl_ak74m_body";
@@ -1015,7 +1014,6 @@ randomize()
 	case 19:
         level.tracksuit_mode_model = "h2_gfl_commander_body";
         level.tracksuit_mode_head = "h2_gfl_commander_head";
-        level.accessorymodels_cheat = [ "h2_gfl_commander_hair" ];
 		break;
 	case 20:
         level.tracksuit_mode_model = "h2_gfl_ouroboros_body";
@@ -1042,6 +1040,16 @@ randomize()
 	case 26:
         level.tracksuit_mode_model = "h1_gfl_dreamer_body";
         level.tracksuit_mode_head = "h1_gfl_dreamer_head";
+		break;
+	case 27:
+        level.tracksuit_mode_model = "s1_gfl_mp7_body_tights";
+        level.tracksuit_mode_head = "s1_gfl_mp7_head";
+        level.accessorymodels_cheat = [ "s1_gfl_mp7_jacket", "s1_gfl_mp7_hat", "s1_gfl_mp7_headset" ];
+		break;
+	case 28:
+        level.tracksuit_mode_model = "s1_gfl_g36c_body";
+        level.tracksuit_mode_head = "s1_gfl_g36c_head";
+        level.accessorymodels_cheat = [ "s1_gfl_g36c_vest" ];
 		break;
 	}
 }

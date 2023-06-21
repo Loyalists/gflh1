@@ -4,10 +4,10 @@
 main()
 {
 	character\gfl\_utility::detach_all_attachments();
-	self.charactername = "P90";
-	self setmodel("h2_gfl_p90_body");
-	self.headmodel = "h2_gfl_p90_head";
-	self.accessorymodels = [ "h2_gfl_p90_clothes" ];
+	self.charactername = "G36C";
+	self setmodel("s1_gfl_g36c_body");
+	self.headmodel = "s1_gfl_g36c_head";
+	self.accessorymodels = [ "s1_gfl_g36c_vest" ];
 	character\gfl\_utility::attach_all_attachments();
 	self.voice = "american";
 	self setclothtype( "vestlight" );
@@ -15,7 +15,7 @@ main()
 
 precache()
 {
-	precachemodel("h2_gfl_p90_body");
-	precachemodel("h2_gfl_p90_head");
-	precachemodel("h2_gfl_p90_clothes");
+	precachemodel("s1_gfl_g36c_body");
+	precachemodel("s1_gfl_g36c_head");
+	precachemodel("s1_gfl_g36c_vest");
 }

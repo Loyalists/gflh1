@@ -64,6 +64,9 @@ precache_all_characters()
 	character\gfl\character_gfl_tac50::precache();
 	character\gfl\character_gfl_super_sass::precache();
 	character\gfl\character_gfl_super_sass_nocoat::precache();
+	character\gfl\character_gfl_mp7_tights::precache();
+	character\gfl\character_gfl_mp7_casual_tights::precache();
+	character\gfl\character_gfl_g36c::precache();
 
 	// sf
 	character\gfl\character_gfl_dreamer::precache();

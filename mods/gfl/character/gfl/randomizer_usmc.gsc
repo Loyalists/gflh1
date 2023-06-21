@@ -2,7 +2,7 @@ main()
 {
 	character\gfl\_utility::detach_all_attachments();
 
-	switch( codescripts\character::get_random_character(12) )
+	switch( codescripts\character::get_random_character(14) )
 	{
 	case 0:
 		character\gfl\character_gfl_p90::main();
@@ -40,6 +40,12 @@ main()
 	case 11:
 		character\gfl\character_gfl_super_sass::main();
 		break;
+	case 12:
+		character\gfl\character_gfl_mp7_tights::main();
+		break;
+	case 13:
+		character\gfl\character_gfl_g36c::main();
+		break;
 	}
 	self.voice = "american";
 }
@@ -58,4 +64,6 @@ precache()
 	character\gfl\character_gfl_suomi::precache();
 	character\gfl\character_gfl_ppsh41::precache();
 	character\gfl\character_gfl_super_sass::precache();
+	character\gfl\character_gfl_mp7_tights::precache();
+	character\gfl\character_gfl_g36c::precache();
 }

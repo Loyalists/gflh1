@@ -2,7 +2,7 @@ main()
 {
 	character\gfl\_utility::detach_all_attachments();
 
-	switch( codescripts\character::get_random_character(11) )
+	switch( codescripts\character::get_random_character(13) )
 	{
 	case 0:
 		character\gfl\character_gfl_p90::main();
@@ -37,6 +37,12 @@ main()
 	case 10:
 		character\gfl\character_gfl_super_sass::main();
 		break;
+	case 11:
+		character\gfl\character_gfl_mp7_tights::main();
+		break;
+	case 12:
+		character\gfl\character_gfl_g36c::main();
+		break;
 	}
 	self.voice = "russian";
 }
@@ -54,4 +60,6 @@ precache()
 	character\gfl\character_gfl_sp9_v2::precache();
 	character\gfl\character_gfl_suomi::precache();
 	character\gfl\character_gfl_super_sass::precache();
+	character\gfl\character_gfl_mp7_tights::precache();
+	character\gfl\character_gfl_g36c::precache();
 }

@@ -7,7 +7,6 @@ main()
 	self.charactername = "M4 SOPMOD II";
 	self setmodel("h2_gfl_m4_sopmod_ii_body");
 	self.headmodel = "h2_gfl_m4_sopmod_ii_head";
-	self.accessorymodels = [ "h2_gfl_m4_sopmod_ii_hair" ];
 	character\gfl\_utility::attach_all_attachments();
 	self.voice = "taskforce";
 	self setclothtype( "vestlight" );
@@ -17,5 +16,4 @@ precache()
 {
 	precachemodel("h2_gfl_m4_sopmod_ii_body");
 	precachemodel("h2_gfl_m4_sopmod_ii_head");
-	precachemodel("h2_gfl_m4_sopmod_ii_hair");
 }

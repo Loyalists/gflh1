@@ -12,6 +12,16 @@ material,h2_gfl_menu_background_alternative
 material,victory
 material,victory_sas
 
+xmodel,s1_gfl_mp7_body_tights
+xmodel,s1_gfl_mp7_head
+xmodel,s1_gfl_mp7_jacket
+xmodel,s1_gfl_mp7_hat
+xmodel,s1_gfl_mp7_headset
+
+xmodel,s1_gfl_g36c_body
+xmodel,s1_gfl_g36c_head
+xmodel,s1_gfl_g36c_vest
+
 xmodel,h1_gfl_m16a1_prime_body
 xmodel,h1_gfl_m16a1_prime_head
 xmodel,h1_gfl_m16a1_prime_outline
@@ -55,7 +65,6 @@ xmodel,h2_gfl_m4a1_worldhands
 
 //xmodel,h2_gfl_m4_sopmod_ii_body
 //xmodel,h2_gfl_m4_sopmod_ii_head
-//xmodel,h2_gfl_m4_sopmod_ii_hair
 xmodel,h2_gfl_m4_sopmod_ii_viewbody
 xmodel,h2_gfl_m4_sopmod_ii_viewbody_uaz
 xmodel,h2_gfl_m4_sopmod_ii_viewhands
@@ -69,7 +78,6 @@ xmodel,h2_gfl_suomi_hair
 
 xmodel,h2_gfl_p90_body
 xmodel,h2_gfl_p90_head
-xmodel,h2_gfl_p90_hair
 xmodel,h2_gfl_p90_clothes
 
 xmodel,h2_gfl_9a91_body
@@ -87,7 +95,6 @@ xmodel,h2_gfl_type97_hair
 
 xmodel,h2_gfl_saiga12_body
 xmodel,h2_gfl_saiga12_head
-xmodel,h2_gfl_saiga12_hair
 xmodel,h2_gfl_saiga12_clothes
 
 xmodel,h2_gfl_fnc_body
@@ -96,7 +103,6 @@ xmodel,h2_gfl_fnc_clothes
 
 xmodel,h2_gfl_sten_body
 xmodel,h2_gfl_sten_head
-xmodel,h2_gfl_sten_hair
 
 xmodel,h2_gfl_dima_body
 xmodel,h2_gfl_dima_head
@@ -111,11 +117,6 @@ xmodel,h2_gfl_ak12_body
 xmodel,h2_gfl_ak12_head
 xmodel,h2_gfl_ak12_hair
 xmodel,h2_gfl_ak12_outline
-
-//xmodel,h2_gfl_sp9_body
-//xmodel,h2_gfl_sp9_head
-//xmodel,h2_gfl_sp9_hair
-//xmodel,h2_gfl_sp9_outline
 
 xmodel,h2_gfl_tac50_body
 xmodel,h2_gfl_tac50_head
@@ -136,21 +137,13 @@ xmodel,h2_gfl_ouroboros_body
 xmodel,h2_gfl_ouroboros_head
 
 xmodel,h2_gfl_vespid_fb
-//xmodel,h2_gfl_vespid_body
-//xmodel,h2_gfl_vespid_head
 
 xmodel,h2_gfl_jaeger_fb
-//xmodel,h2_gfl_jaeger_body
-//xmodel,h2_gfl_jaeger_head
 xmodel,h2_gfl_jaeger_goggle
 xmodel,h2_gfl_jaeger_goggle_up
 
 xmodel,h2_gfl_ripper_fb
-//xmodel,h2_gfl_ripper_body
-//xmodel,h2_gfl_ripper_head
 
 xmodel,h2_gfl_guard_fb
-//xmodel,h2_gfl_guard_body
-//xmodel,h2_gfl_guard_head
 xmodel,h2_gfl_guard_visor
 xmodel,h2_gfl_guard_visor_up

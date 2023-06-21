@@ -7,7 +7,6 @@ main()
 	self.charactername = "Commander";
 	self setmodel("h2_gfl_commander_body");
 	self.headmodel = "h2_gfl_commander_head";
-	self.accessorymodels = [ "h2_gfl_commander_hair" ];
 	character\gfl\_utility::attach_all_attachments();
 	self.voice = "american";
 	self setclothtype( "vestlight" );
@@ -17,5 +16,4 @@ precache()
 {
 	precachemodel("h2_gfl_commander_body");
 	precachemodel("h2_gfl_commander_head");
-	precachemodel("h2_gfl_commander_hair");
 }
