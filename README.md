@@ -11,7 +11,7 @@
 
 2. Install the [DEVELOP BUILD of h1-mod](https://github.com/h1-mod/h1-mod/actions?query=branch%3Adevelop)  
 The current release of h1-mod doesn't work properly with the mod and using the develop build is a must for the time being.   
-Take [this](https://github.com/h1-mod/h1-mod/actions/runs/4478388098) as an example. Just hit the "**Release binaries**" to download it when in doubt.  
+Take [this](https://github.com/h1-mod/h1-mod/actions/runs/5270194043) as an example. Just hit the "**Release binaries**" to download it when in doubt.  
 Also note that a github account is required for this, login or register one when needed.
 
 3. Download the latest [release](https://github.com/Loyalists/gflh1/releases/latest).  
