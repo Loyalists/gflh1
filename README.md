@@ -4,15 +4,12 @@
 
 ## Requirements
 [Call of Duty: Modern Warfare Remastered](https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/) (Steam - PC)  
-[h1-mod (DEVELOP BUILD)](https://github.com/h1-mod/h1-mod)
+[h1-mod](https://github.com/h1-mod/h1-mod)
 
 ## Installation
 1. Prepare a copy of MWR. Read the [h1-mod manual](https://docs.h1.gg/install) for more information.
 
-2. Install the [latest MAIN build of h1-mod](https://github.com/h1-mod/h1-mod/actions?query=branch%3Amain)  
-The current release of h1-mod doesn't work properly with the mod and using the develop build is a must for the time being.   
-Take [this](https://github.com/h1-mod/h1-mod/actions/runs/7311484176) as an example. Just hit the "**Release binaries**" to download it when in doubt.  
-Also note that a github account is required for this, login or register one when needed.
+2. Install the [h1-mod (v2.0.1 or above)](https://github.com/h1-mod/h1-mod/releases)  
 
 3. Download the latest [release](https://github.com/Loyalists/gflh1/releases/latest).  
 **Do NOT download the repository as ZIP, that won't work, make sure you download the LATEST RELEASE.**
